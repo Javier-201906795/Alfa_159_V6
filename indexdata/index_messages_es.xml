@@ -9,9 +9,6 @@
 
 
 
-  <data name="es_pano37_title"><![CDATA[0_Garage2]]></data>
-
-
   <data name="es_pano44_title"><![CDATA[1_Garage]]></data>
 
 
@@ -70,7 +67,6 @@
 
 
 
-  <data name="es_webvrbuttontooltip"><![CDATA[]]></data>
 
 
   <data name="es_vr_setup_hmd0"><![CDATA[SELECCIONE SU HMD]]></data>
@@ -103,9 +99,6 @@
   <data name="es_vr_setup_cb7"><![CDATA[Calibración exitosa]]></data>
   <data name="es_vr_setup_cb8"><![CDATA[Calibración fracasada]]></data>
   <data name="es_vr_setup_unavailable"><![CDATA[El modo VR no está disponible en tu dispositivo]]></data>
-
-
-
 
 
 
